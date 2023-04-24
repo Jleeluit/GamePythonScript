@@ -42,5 +42,5 @@ if result == 1:
 elif result == -1:
     print("Player 2 wins!")
 else:
-    print("It's a tie!")
+    print("It's a tie!! Good Game!")
 
